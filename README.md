@@ -11,7 +11,7 @@ I am interested in these topics as well as
 2. Stellar evolution
 3. Quasars
 
-
+Go check out my [CV](CV.md)
 
 ## Welcome to GitHub Pages
 
