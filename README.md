@@ -13,6 +13,6 @@ I am interested in these topics as well as
 
 Link to my [CV](CV.md)
 
-Link ot my [posters](posters.md)
+Link to my [posters](posters.md)
 
-Link ot my [publications](publications.md)
+Link to my [publications](publications.md)
