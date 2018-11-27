@@ -1,5 +1,5 @@
 ### Evan Haze Nunez
-I am a Physics student at [California State Polytechnic University, Pomona](https://www.cpp.edu/) currently applying for graduate school in Astronomy/Astrophysics.
+I am a Physics student at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics.
 
 I have researched the following topics
 - Quasars, high redshift quasars, observational cosmology (Optical Data)
