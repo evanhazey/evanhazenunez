@@ -5,5 +5,4 @@ For PDF of poster click [here](https://evanhazey.github.io/evanhazenunez/Graphic
 
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.jpg">
 
-
 During Summer 2016 I researched at the University of Wyoming with Professor Adam Myers and Postdoctoral Fellow Joe FIndlay on high redshift-quasar candidates.
