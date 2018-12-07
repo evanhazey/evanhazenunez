@@ -1,4 +1,7 @@
 # Evan Haze Nunez
+
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfie.png">
+
 I am a Physics student at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics.
 
 I have researched the following topics
