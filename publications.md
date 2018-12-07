@@ -4,7 +4,7 @@ ADS Query for [Evan Haze Nunez](https://ui.adsabs.harvard.edu/#search/q=%20%20au
 
 ## SAO REU Paper Draft 
 
-Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics (CfA) through the Smithsonian Astrophysical Observatory REU program with Professor Charlie Conroy and Postdoctoral Fellow Joel Leja. A requirement of the program is for us to write a draft of the research that we conducted over the 10 week-long summer. 
+Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics (CfA) through the Smithsonian Astrophysical Observatory REU program with Postdoctoral Fellow Joel Leja and Professor Charlie Conroy. A requirement of the program is for us to write a draft of the research that we conducted over the 10 week-long summer. 
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.pdf) for the PDF of the draft
 
