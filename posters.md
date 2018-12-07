@@ -8,7 +8,7 @@ Summer 2017 I began researching at my home institution Cal Poly Pomona with Prof
 
 For PDF of poster click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.pdf)
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.jpg">
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/AAS_2018_pic.jpg">
 
 
 ## University of Wyoming REU
@@ -17,4 +17,4 @@ Summer 2016 I researched at the University of Wyoming with Professor Adam Myers 
 
 For PDF of poster click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2017.pdf)
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2017.jpg">
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/AAS_2017_pic.jpg">
