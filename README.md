@@ -11,11 +11,11 @@ I have researched the following topics
 
 I am interested in these topics as well as 
 1. Galaxy Evolution/Formation
-2. Stellar evolution, Young Stellar Objects
-4. Observational Cosmology
+2. Observational Cosmology
+3. Young Stellar Objects, Stellar evolution
 
 Link to my [CV](CV.md)
 
-Link to my [posters](posters.md)
+Link to my [Posters](posters.md)
 
-Link to my [publications](publications.md)
+Link to my [Publications](publications.md)
