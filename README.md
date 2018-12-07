@@ -1,5 +1,7 @@
 # Evan Haze Nunez
 
+Link to my [CV](CV.md), [Posters](posters.md), [Publications](publications.md)
+
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfie.jpeg">
 
 I am a Physics student at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics.
@@ -13,9 +15,3 @@ I am interested in these topics as well as
 1. Galaxy Evolution/Formation
 2. Observational Cosmology
 3. Young Stellar Objects, Stellar evolution
-
-Link to my [CV](CV.md)
-
-Link to my [Posters](posters.md)
-
-Link to my [Publications](publications.md)
