@@ -13,7 +13,7 @@ For PDF of poster click [here](https://evanhazey.github.io/evanhazenunez/Graphic
 
 ## University of Wyoming REU
 
-Summer 2016 I researched at the University of Wyoming with Professor Adam Myers and Postdoctoral Fellow Joe FIndlay on observing the colors of high redshift-quasar candidates. The majority of the summer was spent observing, reducing data, and calibrating the data so that we could start data analysis. I lived the observational astronomers dream by being able to observe ~40 nights that summer! Almost every night was enjoyable except when there were clouds and when we had to take morning flats. Bleh. Overall, this was a great first experience for astronomical research.
+Summer 2016 I researched at the University of Wyoming with Postdoctoral Fellow Joe Findlay and Professor Adam Myers on observing the colors of high redshift-quasar candidates. The majority of the summer was spent observing, reducing data, and calibrating the data so that we could start data analysis. I lived the observational astronomers dream by being able to observe ~40 nights that summer! Almost every night was enjoyable except when there were clouds and when we had to take morning flats. Bleh. Overall, this was a great first experience for astronomical research.
 
 For PDF of poster click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2017.pdf)
 
