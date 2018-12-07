@@ -1,7 +1,8 @@
 # Publications and Paper Drafts
 
-Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics (CfA) through the Smithsonian Astrophysical Observatory REU program. A requirement of the program is for us to write a draft of the research that we conducted over the 10 week-long summer. Click [here](https://github.com/evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.pdf)
+ADS Query for [Evan Haze Nunez](https://ui.adsabs.harvard.edu/#search/q=%20%20author%3A%22Haze%20Nunez%2C%20Evan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
+Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics (CfA) through the Smithsonian Astrophysical Observatory REU program. A requirement of the program is for us to write a draft of the research that we conducted over the 10 week-long summer. Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.png.pdf)
 
 Title page of the draft
-<img src="https://github.com/evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.png">
-
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.png">
