@@ -1,8 +1,8 @@
 # Evan Haze Nunez
 
-Link to my [CV](CV.md), [Posters](posters.md), [Publications](publications.md)
-
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfie.jpeg">
+
+Link to my [CV](CV.md), [Posters](posters.md), [Publications](publications.md)
 
 I am a Physics student at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics.
 
