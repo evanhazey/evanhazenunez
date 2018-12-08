@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-Current as of Devember 6, 2018
+Current as of Devember 7, 2018
 
 For PDF click [here](https://evanhazey.github.io/evanhazenunez/Graphics/CV.pdf)
 
