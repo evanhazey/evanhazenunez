@@ -1,4 +1,4 @@
-# Publications and Paper Drafts
+# Publications
 
 ADS Query for [Evan Haze Nunez](https://ui.adsabs.harvard.edu/#search/q=%20%20author%3A%22Haze%20Nunez%2C%20Evan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
