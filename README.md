@@ -1,17 +1,19 @@
-# Evan Haze Nunez
+# Evan Haze Núñez
 
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfie.jpeg">
 
 Links to my [CV](CV.md), [Posters](posters.md), [Publications](publications.md)
 
-I am a Physics student at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics.
+I am a Physics student with a deep lover for astronomy at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics.
+I am cisgender with African-American and Mexican ethnic roots.
 
 I have researched the following topics
-- Quasars, high redshift quasars, observational cosmology (Optical Data)
-- Pre-Main Sequence Stars, Young Stellar Objects (IR and X-ray)
-- Stellar Population Synthesis Models, Stellar Evolution, Massive Stars (Modeling Project that used Visible/IR Data)
+- Stellar Population Synthesis Models, Stellar Evolution, Massive Stars (Modeling Project that used UV, Visible and IR Data)
+- Pre-Main Sequence Stars, Young Stellar Objects (IR and X-ray data)
+- Quasars, high redshift quasars, observational cosmology (Visible Data)
 
-I am interested in these topics as well as 
+
+I am interested in the following topics 
 1. Galaxy Evolution/Formation
 2. Observational Cosmology
 3. Young Stellar Objects, Stellar evolution
