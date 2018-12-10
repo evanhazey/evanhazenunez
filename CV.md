@@ -2,7 +2,7 @@
 
 Current as of Devember 7, 2018
 
-For PDF click [here](https://evanhazey.github.io/evanhazenunez/Graphics/CV.pdf)
+Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/CV.pdf) for full screen CV
 
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/CV_1.jpg">
 
