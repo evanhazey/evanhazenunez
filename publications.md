@@ -8,11 +8,11 @@ ADS Query for [Evan Haze Nunez](https://ui.adsabs.harvard.edu/#search/q=%20%20au
 3. M. S. Povich, J. S. Maldonado, **E. H. Nunez**, and T. Robitaille. *The Duration of Star Formation In Galactic Giant Molecular Clouds. I. The Great Nebula in Carina*. To be submitted to AAS Journals Spring 2019.
 
 
-## SAO REU Paper Draft 
+## SAO REU Internal Paper 
 
-Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics (CfA) through the Smithsonian Astrophysical Observatory REU program with Postdoctoral Fellow Joel Leja and Professor Charlie Conroy. A requirement of the program is for us to write a draft of the research that we conducted over the 10 week-long summer. 
+A requirement of the SAO REU is to write a paper on the research (described in detail on my [posters](https://evanhazey.github.io/evanhazenunez/posters.md) page) I conducted at the at the Harvard-Smithsonian Center for Astrophysics (CfA) that will be saved in the archives of the program.
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.pdf) for the PDF of the draft
 
-Title page of the draft
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.png">
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.jpg">
+Caption: Title page of the draft
