@@ -9,7 +9,7 @@ Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Fi
 Caption: Title page of the paper
 
 
-Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.pdf) for the full poster
+Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.pdf) for the full poster
 CONFERENCE POSTER IMAGING COMING SOON
 
 
