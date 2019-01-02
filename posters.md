@@ -1,4 +1,4 @@
-# Poster Presentations
+# Research Projects
 *REU = Research Experience for Undergraduates*
 
 ## Smithsonian Astrophysical Observatory REU
