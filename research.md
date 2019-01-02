@@ -6,10 +6,9 @@ Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics with
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.pdf) for the full poster
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.jpg">
-
 CONFERENCE POSTER IMAGING COMING SOON
 
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.jpg">
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.pdf) for the paper
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.jpg">
