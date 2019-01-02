@@ -4,13 +4,14 @@
 ## Smithsonian Astrophysical Observatory REU
 Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics with Professor Charlie Conroy and Postdoctoral Fellow Joel Leja on using [Flexible Stellar Population Synthesis](https://github.com/cconroy20/fsps) to constrain the ionizing photon budget of massive stars in distant galaxies. This was by far the most productive summer that I have had since this was my third consecutve astronomical research experience. I had a very fun summer and thoughtful summer because of the friends I made and my affiation with the [Banneker-Atzlán Institute](https://bannekerinstitute.fas.harvard.edu). I will present this research at the 233rd American Astronomical Society (AAS 233) National Conference in Seattle, WA January 2019. A requirement of the SAO REU is to write a paper on the research concucted over the 10-week long summer. This made the research cement into my head and encouraged deeper understanding of the topic.
 
+Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.pdf) for the full poster
+
+CONFERENCE POSTER IMAGING COMING SOON
+
+
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.pdf) for the paper
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.jpg">
 Caption: Title page of the paper
-
-
-Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.pdf) for the full poster
-CONFERENCE POSTER IMAGING COMING SOON
 
 
 
