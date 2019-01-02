@@ -18,7 +18,7 @@ Caption: Title page of the paper
 
 ## Cal Poly Pomona
 
-Summer 2017 I began researching at my home institution Cal Poly Pomona with Professor Matthew Povich and Postdoctoral Fellow (now Assistant Professor) Breanna Binder on the characterizing the X-ray properties of Intermediate-Mass Pre-Main-Sequence Stars. I presented this work as a poster at two different conference. The first was at the AAS 231 in National Harbor, MD where I was named one of five undergraduates out of 100 to be a medalist for the Chambliss Astronomy Achievement Award. The second time was at the Chandra Workshop on Accretion in Stellar Systems in Cambridge, MA while I was researching at the CfA (above). This was my first topical conference and it was a blast!
+Summer 2017 I began researching at my home institution Cal Poly Pomona with Professor Matthew Povich and Postdoctoral Fellow (now Assistant Professor) Breanna Binder on the characterizing the X-ray properties of Intermediate-Mass Pre-Main-Sequence Stars. I presented this work as a poster at two different conference. The first was at the AAS 231 in National Harbor, MD where I was named one of five undergraduates out of 100 to be a medalist for the **Chambliss Astronomy Achievement Award**. The second time was at the Chandra Workshop on Accretion in Stellar Systems in Cambridge, MA while I was researching at the CfA (above). This was my first topical conference and it was a blast!
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.pdf) for the full poster
 
