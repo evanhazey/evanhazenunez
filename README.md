@@ -2,7 +2,7 @@
 
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfie.jpeg">
 
-Links to my [CV](CV.md), [Research](posters.md), [Publications](publications.md)
+Links to my [CV](CV.md), [Research](research.md), [Publications](publications.md)
 
 I am a Physics student with a deep love for astronomy at [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) currently applying for graduate school in Astronomy/Astrophysics. I am biracial (African-American and Mexican), grew up in Southern California (Carson, CA then Torrance, CA), and am very family-oriented. My main goals in life are to learn as much about the universe as I can, to share that knowledge with others, to do right by those I come into contact with, and to stay true to myself. Progress and good vibes.
 
