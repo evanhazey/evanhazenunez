@@ -7,7 +7,7 @@ Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics with
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.pdf) for the full poster
 
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.jpg">
-Caption: AAS 233 Poster. CONFERENCE POSTER IMAGE COMING SOON
+Caption: Presenting my poster at AAS 233 in Seattle, WA.
 
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_SAO_REU_Final.pdf) for the paper
