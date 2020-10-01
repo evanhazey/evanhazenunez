@@ -8,6 +8,7 @@ Hello hello. I am a PhD student at [Caltech Astronomy](https://www.astro.caltech
 
 
 My Current Research
+
 Placing empirical constraints on the core-collapse supernova (CCSN) yields of massive stars using Very Metal-Poor Damped Lyman ALpha Absorbers (VMP DLAs). VMP DLAs offer a unique way to probe the near primordial gas of protogalaxires that have been predominantly enriched by CCSN. 
 
 
@@ -18,8 +19,8 @@ All current/previous researched topics
 - Quasars, high redshift quasars, observational cosmology (Visible Data)
 
 
-I am interested in the following topics 
+<!I am interested in the following topics 
 1. Galactic Chemical Evolution
 2. Young Stellar Objects, Stellar evolution
 3. Galaxy Evolution/Formation
-4. Observational Cosmology
+4. Observational Cosmology>
