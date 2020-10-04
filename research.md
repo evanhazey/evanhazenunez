@@ -2,7 +2,7 @@
 *REU = Research Experience for Undergraduates*
 
 ## Caltech Galactic Archaeology Group
-I am currently working with Evan Kirby([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the zero-metallicity yields of core collapse supernovae. I presented this work during my Qualification exam. The Qual required both a presentation and written report (which I will link both below). Currently we are drafting up a paper for the project so stay tuned for that...
+I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are drafting up a paper for the project so stay tuned for that...
 
 Links to the [Qual Report](https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.pdf) and [Qual Presentation](https://docs.google.com/presentation/d/1tMPtQCzWs3bcarBMcDO2KeOwWuVZQqyShkfzjMImaD4/edit?usp=sharing)
 
