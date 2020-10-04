@@ -9,7 +9,7 @@ Hello hello. I am a PhD student at [Caltech Astronomy](https://www.astro.caltech
 
 My Current Research
 
-Placing empirical constraints on the core-collapse supernova (CCSN) yields of massive stars using Very Metal-Poor Damped Lyman ALpha Absorbers (VMP DLAs). VMP DLAs offer a unique way to probe the near primordial gas of protogalaxires that have been predominantly enriched by CCSN. 
+Placing empirical constraints on the core-collapse supernova (CCSN) yields of zero metallicity massive stars using Very Metal-Poor Damped Lyman Alpha Absorbers (VMP DLAs). More details and a written report can be found in the [Research](research.md) portion of my site. 
 
 
 All current/previous researched topics
