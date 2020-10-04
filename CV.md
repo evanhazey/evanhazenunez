@@ -6,7 +6,7 @@ Full CV [here](https://docs.google.com/document/d/1lK0ZNMUKEQlv9tSvvlTG0VduwoljM
 
 First page of my CV.
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Master CV.jpg">
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Master_CV.jpg">
 
 
 
