@@ -1,6 +1,11 @@
 # Research Projects
 *REU = Research Experience for Undergraduates*
 
+## Caltech Galactic Archaeology Group
+I am currently working with Evan Kirby on trying to place empirical constraints on the zero-metallicity yields of core collapse supernovae. I presented this work during my Qualification exam. The Qual required both a presentation and written report (which I will link both below). Currently we are drafting up a paper for the project so stay tuned for that...
+Link to the [paper draft]()
+
+
 ## Smithsonian Astrophysical Observatory REU
 Summer 2018 I researched at the Harvard-Smithsonian Center for Astrophysics with Professor Charlie Conroy and Postdoctoral Fellow Joel Leja on using [Flexible Stellar Population Synthesis](https://github.com/cconroy20/fsps) to constrain the ionizing photon budget of massive stars in distant galaxies. This was by far the most productive summer that I have had since this was my third consecutve astronomical research experience. I had a very fun and thoughtful summer because of the friends I made and my affiation with the [Banneker-Atzlán Institute](https://bannekerinstitute.fas.harvard.edu). I will present this research at the 233rd American Astronomical Society (AAS 233) National Conference in Seattle, WA January 2019. A requirement of the SAO REU is to write a paper on the research concucted over the 10-week long summer. This made the research cement into my head and encouraged deeper understanding of the topic.
 
