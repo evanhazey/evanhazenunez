@@ -2,7 +2,7 @@
 *REU = Research Experience for Undergraduates*
 
 ## Caltech Galactic Archaeology Group
-I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are drafting up a paper for the project so stay tuned for that...
+I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are draftinI recently submitted this work to ApJ, check out the [preprint here](https://arxiv.org/abs/2108.00659)
 
 Links to the [Qual Report](https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.pdf) and [Qual Presentation](https://docs.google.com/presentation/d/1tMPtQCzWs3bcarBMcDO2KeOwWuVZQqyShkfzjMImaD4/edit?usp=sharing)
 
@@ -29,7 +29,7 @@ Caption: Presenting my poster at AAS 233 in Seattle, WA.
 
 ## Cal Poly Pomona
 
-Summer 2017 I began researching at my home institution Cal Poly Pomona with Professor Matthew Povich and Postdoctoral Fellow (now Assistant Professor) Breanna Binder on the characterizing the X-ray properties of Intermediate-Mass Pre-Main-Sequence Stars. I presented this work as a poster at two different conference. The first was at the AAS 231 in National Harbor, MD where I was named one of five undergraduates out of 100 to be a medalist for the **Chambliss Astronomy Achievement Award**. The second time was at the Chandra Workshop on Accretion in Stellar Systems in Cambridge, MA while I was researching at the CfA (above). This was my first topical conference and it was a blast!
+Summer 2017 I began researching at my home institution Cal Poly Pomona with Professor Matthew Povich and Postdoctoral Fellow (now Assistant Professor) Breanna Binder on the characterizing the X-ray properties of Intermediate-Mass Pre-Main-Sequence Stars. I presented this work as a poster at two different conference. The first was at the AAS 231 in National Harbor, MD where I was named one of five undergraduates out of 100 to be a medalist for the **Chambliss Astronomy Achievement Award**. The second time was at the Chandra Workshop on Accretion in Stellar Systems in Cambridge, MA while I was researching at the CfA (above). This was my first topical conference and it was a blast! I recently submitted this work to AJ where it was accepted and is now awaiting publication. Check out the [preprint here](https://arxiv.org/abs/2103.13376)
 
 Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.pdf) for the full poster
 
