@@ -1,12 +1,12 @@
 # Curriculum Vitae
 
-Current as of October 4, 2020
+Current as of August 16, 2021
 
 Full CV [here](https://docs.google.com/document/d/1lK0ZNMUKEQlv9tSvvlTG0VduwoljM2-xgqujeFNyep0/edit?usp=sharing) 
 
 First page of my CV.
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Master_CV1.jpg">
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/MasterCV_August_16_2021.jpg">
 
 
 
