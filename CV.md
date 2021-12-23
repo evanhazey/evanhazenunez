@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-Current as of August 16, 2021
+Current as of December 23, 2021
 
 Full CV [here](https://docs.google.com/document/d/1lK0ZNMUKEQlv9tSvvlTG0VduwoljM2-xgqujeFNyep0/edit?usp=sharing) 
 
