@@ -1,6 +1,9 @@
 # Research Projects
 *REU = Research Experience for Undergraduates*
 
+## Caltech Hi-z Gals Group
+My thesis is being advised by Evan Kirby and Chuck Steidel and is focused on directly observing the baryon cycle in individual galaxies at 
+
 ## Caltech Galactic Archaeology Group
 I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are draftinI recently submitted this work to ApJ, check out the [preprint here](https://arxiv.org/abs/2108.00659)
 
