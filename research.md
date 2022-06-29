@@ -1,8 +1,8 @@
 # Research Projects
 *REU = Research Experience for Undergraduates*
 
-## Caltech Hi-z Gals Group
-My thesis is being advised by Evan Kirby and Chuck Steidel and is focused on directly observing the baryon cycle in individual galaxies at 
+## Caltech Hi-z Galaxies Group
+My thesis is being advised by Chuck Steidel and Evan Kirby and is focused on directly observing the baryon cycle in individual galaxies at z=2-3-the peak of cosmic star formation. The baryon cycle describes how the baryons from the interstellar medium (ISM), circumgalactic medium (CGM), and intergalactic medium (IGM) all interplay with one another. At a high level galaxy formation starts with accrection of metal-free gas from the IGM where it is converted to stars, the massive stars return metals, momentum, and energy into the ISM that scales up to being ejected into the CGM (and IGM) where, after some time, it falls back onto the galaxy. Since the CGM is so diffuse it is difficult to detect it via emission (unless the galaxy emits Lya emission) so we make use of background quasars that intersect the galaxy CGM on its way to us because the CGM will absorb away the continuum of the quasars-both HI and metals. This, in combination with observing the galaxy ISM via its stellar/nebular emission gives us a direct detection of the baryon cycle. For more information and other considerations see my Thesis Report 
 
 ## Caltech Galactic Archaeology Group
 I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are draftinI recently submitted this work to ApJ, check out the [preprint here](https://arxiv.org/abs/2108.00659)
