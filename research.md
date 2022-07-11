@@ -26,6 +26,8 @@ Caption: *Left:* QSO 2233+131 and galaxy LBG before the quasar is subtracted. Th
 
 <br/>
 <br/>
+<br/>
+
 
 ## Notre Dame Galactic Archaeology Group
 My first project at Caltech was with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) and Chuck Steidel on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. We made use of near-pristine (i.e., contain very few metals) clouds of hydrogen called very metal poor damped lyman alpha absorbers (VMP DLAs). For more context check out the [paper here](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...64N/abstract), [Qual Report](https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.pdf) and [Qual Presentation](https://docs.google.com/presentation/d/1tMPtQCzWs3bcarBMcDO2KeOwWuVZQqyShkfzjMImaD4/edit?usp=sharing).
@@ -56,6 +58,7 @@ Caption: Presenting my poster at AAS 233 in Seattle, WA.
 <br/>
 <br/>
 
+
 ## Cal Poly Pomona
 
 Summer 2017 I began researching at my home institution Cal Poly Pomona with Professor Matthew Povich and Postdoctoral Fellow (now Assistant Professor) Breanna Binder on the characterizing the X-ray properties of Intermediate-Mass Pre-Main-Sequence Stars. I presented this work as a poster at two different conference. The first was at the AAS 231 in National Harbor, MD where I was named one of five undergraduates out of 100 to be a medalist for the **Chambliss Astronomy Achievement Award**. The second time was at the Chandra Workshop on Accretion in Stellar Systems in Cambridge, MA while I was researching at the CfA (above). This was my first topical conference and it was a blast! I recently submitted this work to AJ where it was accepted and is now awaiting publication. Check out the [preprint here](https://arxiv.org/abs/2103.13376)
@@ -68,6 +71,7 @@ Caption: Presenting my poster at AAS 231 in National Harbor, MD.
 <br/>
 <br/>
 <br/>
+
 
 ## University of Wyoming REU
 
