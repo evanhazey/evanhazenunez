@@ -28,14 +28,15 @@ Caption: *Left:* QSO 2233+131 and galaxy LBG before the quasar is subtracted. Th
 <br/>
 
 ## Notre Dame Galactic Archaeology Group
-I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are draftinI recently submitted this work to ApJ, check out the [preprint here](https://arxiv.org/abs/2108.00659)
+My first project at Caltech was with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) and Chuck Steidel on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. We made use of near-pristine (i.e., contain very few metals) clouds of hydrogen called very metal poor damped lyman alpha absorbers (VMP DLAs). For more context check out the [paper here](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...64N/abstract), [Qual Report](https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.pdf) and [Qual Presentation](https://docs.google.com/presentation/d/1tMPtQCzWs3bcarBMcDO2KeOwWuVZQqyShkfzjMImaD4/edit?usp=sharing).
 
-Links to the [Qual Report](https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.pdf) and [Qual Presentation](https://docs.google.com/presentation/d/1tMPtQCzWs3bcarBMcDO2KeOwWuVZQqyShkfzjMImaD4/edit?usp=sharing)
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/AoT_VMPDLA_Cartoon_Sp21.jpg">
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.jpg">
+Caption: Cartoon illustration of a VMP DLA. The metals that exist in this cloud would have had to come from an episode of early star formation that contained stars that were almost metal-free.
 
-Caption: First page of the Qual report.
-
+<br/>
+<br/>
+<br/>
 
 
 ## Smithsonian Astrophysical Observatory REU
@@ -51,7 +52,9 @@ Caption: Title page of the paper
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2019.jpg">
 Caption: Presenting my poster at AAS 233 in Seattle, WA.
 
-
+<br/>
+<br/>
+<br/>
 
 ## Cal Poly Pomona
 
@@ -62,7 +65,9 @@ Click [here](https://evanhazey.github.io/evanhazenunez/Graphics/Nunez_AAS_2018.p
 <img src="https://evanhazey.github.io/evanhazenunez/Graphics/AAS_2018_pic.JPG">
 Caption: Presenting my poster at AAS 231 in National Harbor, MD.
 
-
+<br/>
+<br/>
+<br/>
 
 ## University of Wyoming REU
 
