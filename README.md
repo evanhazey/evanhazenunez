@@ -4,7 +4,7 @@
 
 Links to my [CV](CV.md), [Research](research.md), [Publications](publications.md)
 
-Hello hello. I am a PhD candidate at [Caltech Astronomy](https://www.astro.caltech.edu). I previously attended [El Camino College](https://www.elcamino.edu/academics/naturalsciences/physics/) where I earned an AS in Physics (magna cum laude), then matriculated to [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) to earn my BS in Physics (magna cum laude). I am biracial (African-American and Mexican), grew up in Southern California (Carson, CA then Torrance, CA), and am very family-oriented. My main goals in life are to do right by my loved ones and those I come into contact with, learn as much about the universe as I can, to share that knowledge with others, and to stay true to myself. Progress and vibes.
+Hello hello. I am a PhD candidate at [Caltech Astronomy](https://www.astro.caltech.edu). I previously attended [El Camino College](https://www.elcamino.edu/academics/naturalsciences/physics/) where I earned an AS in Physics (magna cum laude), then matriculated to [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) to earn my BS in Physics (magna cum laude). I am "biracial" (African-American and Mexican), grew up in Southern California (Carson, CA then Torrance, CA), and am very family-oriented. My main goals in life are to do right by my loved ones and those I come into contact with, learn as much about the universe as I can, to share that knowledge with others, and to stay true to myself. Progress and vibes.
 
 
 My Current Research
