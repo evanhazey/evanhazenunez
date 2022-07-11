@@ -1,16 +1,33 @@
 # Research Projects
 *REU = Research Experience for Undergraduates*
 
+Updated July 11, 2022
+
 ## Caltech Hi-z Galaxies Group
-My thesis is being advised by Chuck Steidel and Evan Kirby and is focused on [directly observing the baryon cycle in individual galaxies at z=2-3-the peak of cosmic star formation](https://drive.google.com/file/d/1x9cucQD3_cmyq_RPlbwBJ5Nnz5V1Z_NU/view?usp=sharing). The baryon cycle describes how the baryons from the interstellar medium ([ISM](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect14/lecture14.html)), circumgalactic medium ([CGM](https://ned.ipac.caltech.edu/level5/March18/Tumlinson/Tumlinson1.html)), and intergalactic medium ([IGM](https://www.kicc.cam.ac.uk/research/RTigm)) all interplay with one another. At a high level galaxy formation starts with accrection of metal-free gas from the IGM where it is converted to stars, the massive stars return metals, momentum, and energy into the ISM that scales up to being ejected into the CGM (and IGM) where, after some time, it falls back onto the galaxy. Since the CGM is so diffuse it is difficult to detect it via emission (unless the galaxy emits Lya emission) so we make use of background [quasars](https://en.wikipedia.org/wiki/Quasar) that intersect the galaxy CGM on its way to us because the CGM will absorb away the continuum of the quasars-both HI and metals. This, in combination with observing the galaxy ISM via its stellar/nebular emission gives us a direct detection of the baryon cycle. For more information and other considerations see my [Thesis Report]((https://drive.google.com/file/d/1x9cucQD3_cmyq_RPlbwBJ5Nnz5V1Z_NU/view?usp=sharing) and [Candidacy Presentation](https://drive.google.com/file/d/1HIv6r169892eFecqQVahPJQDh2vEn6mm/view?usp=sharing)
+My thesis is being advised by Chuck Steidel and Evan Kirby and is focused on [directly observing the baryon cycle in individual galaxies at z=2-3-the peak of cosmic star formation](https://drive.google.com/file/d/1x9cucQD3_cmyq_RPlbwBJ5Nnz5V1Z_NU/view?usp=sharing). The baryon cycle describes how the baryons from the interstellar medium ([ISM](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect14/lecture14.html)), circumgalactic medium ([CGM](https://ned.ipac.caltech.edu/level5/March18/Tumlinson/Tumlinson1.html)), and intergalactic medium ([IGM](https://www.kicc.cam.ac.uk/research/RTigm)) all interplay with one another. At a high level galaxy formation starts with accrection of metal-free gas from the IGM where it is converted to stars, the massive stars return metals, momentum, and energy into the ISM that scales up to being ejected into the CGM (and IGM) where, after some time, it falls back onto the galaxy. Since the CGM is so diffuse it is difficult to detect it via emission (unless the galaxy emits Lya emission) so we make use of background [quasars](https://en.wikipedia.org/wiki/Quasar) that intersect the galaxy CGM on its way to us because the CGM will absorb away the continuum of the quasars-both HI and metals. This, in combination with observing the galaxy ISM via its stellar/nebular emission gives us a direct detection of the baryon cycle. For more information and other considerations see my [Candidacy Report](https://drive.google.com/file/d/1x9cucQD3_cmyq_RPlbwBJ5Nnz5V1Z_NU/view?usp=sharing) and [Candidacy Presentation](https://drive.google.com/file/d/1HIv6r169892eFecqQVahPJQDh2vEn6mm/view?usp=sharing)  
+
+
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/AAS240_Summer2022_Motivation.jpg">
+Caption: Ilustration of the individual baryon cycle of galaxies.  
 
 
 
-I recently presented at AAS 240 in Pasadena, CA (right down the street from Caltech) on progress that I have made on the bright Lyman-Break Galaxy ([LBG](https://en.wikipedia.org/wiki/Lyman-break_galaxy)) in the direction towards quasar Q2233+131. It turns out detecting the ISM of these galaxies is difficult because of how bright the quasar 
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/AAS240_Summer2022_PhysicalSetup.jpg">
+Caption: Physical setup of how we study the ISM and CGM of high-z galaxies. The ISM is deteced by emission from the metals in the gas phase and the CGM is detected by Lyman Alpha emission (for hydrogen) and quasar absorption (for both hydrogen and metals).  
+
+<br/>
+<br/>
+
+I recently presented at AAS 240 in Pasadena, CA (right down the street from Caltech) on progress that I have made on the bright Lyman-Break Galaxy ([LBG](https://en.wikipedia.org/wiki/Lyman-break_galaxy)) towards quasar Q2233+131. It turns out detecting the ISM of these galaxies is difficult because of how bright the background quasar is. Additionally, the revolutionary insrument that we use to find these galaxies, known as KCWI (Keck Cosmic Web Imager), gives us datacubes that contain a spectrum for every spaxel (spatial pixel) which means that we have to be careful with how we remove the quasar because it will not be the same at all wavelengths-spatially or spectrally. As a result I have been exploring different approaches to subtracting the quasars from our datacubes and the results from my currently [preferred approaches](https://ui.adsabs.harvard.edu/abs/2017ApJ...850...40R/abstract) is below . The next task is to synthesize the many datasets that we have of this galaxy to understand how the hydrogen and metals are propogating from the galaxy to CGM (and IGM) and back.   
 
 
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/AAS240_Summer2022_QSOSub.jpg">
+Caption: *Left:* QSO 2233+131 and galaxy LBG before the quasar is subtracted. The galaxy cannot be seen in the continuum due to glare from the quasar. *Right:* System after quasar subtraction. The galaxy can now be seen in the continuum.   
 
-## Caltech Galactic Archaeology Group
+<br/>
+<br/>
+
+## Notre Dame Galactic Archaeology Group
 I am currently working with Evan Kirby ([Caltech Galactic Archaeology Group](https://galacticarchaeology.caltech.edu)) on placing empirical constraints on the core collapse supernova yields of zero-metallicity stars. I presented this work during my Qualification exam which required both a presentation and written report (both linked below). Currently we are draftinI recently submitted this work to ApJ, check out the [preprint here](https://arxiv.org/abs/2108.00659)
 
 Links to the [Qual Report](https://evanhazey.github.io/evanhazenunez/Graphics/Qual_Report.pdf) and [Qual Presentation](https://docs.google.com/presentation/d/1tMPtQCzWs3bcarBMcDO2KeOwWuVZQqyShkfzjMImaD4/edit?usp=sharing)
