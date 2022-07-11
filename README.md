@@ -9,7 +9,7 @@ Hello hello. I am a PhD candidate at [Caltech Astronomy](https://www.astro.calte
 
 My Current Research
 
-Thesis: Directly observing the baryon cycle during the peak of cosmic star formation rate density (z=2-3). More details can be found in [Research].
+Thesis: Directly observing the baryon cycle during the peak of cosmic star formation rate density (z=2-3): Detecting and tracing the hydrogen and metals in high redshift galaxies' interstellar and circumgalactic medium. More details including a report and a presentation can be found [here](research.md).
 
 First Year Project: [Placing empirical constraints on the core-collapse supernova (CCSN) yields of zero to low metallicity massive stars using Very Metal-Poor Damped Lyman Alpha Absorbers](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...64N/abstract) (VMP DLAs). More details, a qual report, and link to the paper can be found [here](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...64N/abstract) and in [Research](research.md). 
 
@@ -21,4 +21,4 @@ All current/previous researched topics
 - Pre-Main Sequence Stars, Young Stellar Objects (IR and X-ray data)
 - Quasars, high redshift quasars, observational cosmology (Visible Data)
 
-Updated June 27, 2022
+Updated July 11, 2022
