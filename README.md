@@ -1,13 +1,15 @@
 # Evan Haze Núñez-Cravin
 
-<img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfie.jpeg">
+<img src="https://evanhazey.github.io/evanhazenunez/Graphics/selfiev2.jpeg">
 
 Links to my [CV](CV.md), [Research](research.md), [Publications](publications.md)
 
-Hello hello. I am a joint UC Presidents/Cal-Bridge Postdoctoral Fellow at UCLA (mentors: Alice Shapley, Tommaso Treu) and a visiting Postdoctoral Fellow at Carnegie Observatories. I received my PhD from [Caltech Astronomy](https://www.astro.caltech.edu) (Advisors: Chuck Steidel, Evan Kirby), earned my BS in Physics with a specialization in Astrophysics from [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) (magna cum laude; Advisors: Matt Povich, Breanna Binder), and earned an AST in Physics (and 6 other associates; magna cum laude) from [El Camino College](https://www.elcamino.edu/academics/naturalsciences/physics/). I am biracial (African-American and Mexican), grew up in Southern California (Carson, CA then Torrance, CA; family from Compton), and am very family-oriented. My main goals in life are to do right by those I come into contact with, learn as much about the universe as I can, share that knowledge with as many people as I can, and to keep looking up.
+Hello hello. I am a Carnegie-Princeton Postdoctoral Fellow working with Gwen Rudie. I was previously the first joint UC Presidents/Cal-Bridge Postdoctoral Fellow at UCLA (mentors: Alice Shapley, Tommaso Treu) and a visiting Postdoctoral Fellow at Carnegie Observatories. I earned my PhD from [Caltech Astronomy](https://www.astro.caltech.edu) (Advisors: Chuck Steidel, Evan Kirby), earned my BS in Physics with a specialization in Astrophysics from [California State Polytechnic University, Pomona](https://www.cpp.edu/~sci/physics-astronomy/) (magna cum laude; Advisors: Matt Povich, Breanna Binder), and earned an AST in Physics (and 5 other associates; magna cum laude) from [El Camino College](https://www.elcamino.edu/academics/naturalsciences/physics/). I am biracial (African-American and Mexican), grew up in Southern California (Carson, CA then Torrance, CA; family from Compton), and am very family-oriented. My main goals in life are to do right by those I come into contact with, learn as much about the universe as I can, share that knowledge with as many people as I can, uplift those who need it, and to keep looking up.
 
 
 My Current Research
+
+Placing the strongest observational constraints on the circumgalactic medium of z~2.3 star-forming galaxies.
 
 Thesis: Directly observing the baryon cycle during the peak of cosmic star formation rate density (z=2-3): Detecting and tracing the hydrogen and metals in high redshift galaxies' interstellar and circumgalactic medium. More details including a report and a presentation can be found [here](research.md).
 
@@ -22,4 +24,4 @@ All current/previous researched topics
 - Pre-Main Sequence Stars, Young Stellar Objects (IR and X-ray data)
 - Quasars, high redshift quasars, observational cosmology (Visible Data)
 
-Updated June 16, 2025
+Updated October 8, 2026
