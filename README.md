@@ -24,4 +24,4 @@ All current/previous researched topics
 - Pre-Main Sequence Stars, Young Stellar Objects (IR and X-ray data)
 - Quasars, high redshift quasars, observational cosmology (Visible Data)
 
-Updated October 8, 2026
+Updated October 9, 2026
