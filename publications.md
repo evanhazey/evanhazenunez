@@ -2,17 +2,17 @@
 
 ADS Query for [Evan Haze Nunez-Cravin (ORCID:0000-0001-5595-757X)](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=orcid%3A%220000-0001-5595-757X%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-## Publication List
-# Lead Author
-1. **E. H. Nunez-Cravin**, C. C. Steidel, E. N. Kirby, G. C. Rudie, C. M. Hall, N. Z. Prusinski, Z. Zhuang, Y. Ding, A. E. Shapley, and R. F. Trainor. *KBSS InCLOSE II: First Detailed Insights on the Inner CGM of Low-Mass z~2.3 Galaxies*. Accepted in ApJ.
-2. **E. H. Nuñez**, C. C. Steidel, E. N. Kirby, G. C. Rudie, N. Z. Prusinski, Y.. Chen, Z. Zhuang, A. Strom, D. K. Erb, M. Pettini, L. A. Welsh, D. Rupke, R. Cooke. *KBSS-InCLOSE I: Design and First Results from the Inner CGM of QSO Line of Sight Emitting Galaxies at z~2-3.* 2024, Astrophysical Journal, 976, 41
+## Lead Author
+1. **E. H. Nunez-Cravin**, C. C. Steidel, E. N. Kirby, G. C. Rudie, C. M. Hall, N. Z. Prusinski, Z. Zhuang, Y. Ding, A. E. Shapley, and R. F. Trainor. [*KBSS InCLOSE II: First Detailed Insights on the Inner CGM of Low-Mass z~2.3 Galaxies*](https://ui.adsabs.harvard.edu/abs/2026arXiv260930834N/abstract). Accepted in ApJ.
+2. **E. H. Nuñez**, C. C. Steidel, E. N. Kirby, G. C. Rudie, N. Z. Prusinski, Y.. Chen, Z. Zhuang, A. Strom, D. K. Erb, M. Pettini, L. A. Welsh, D. Rupke, R. Cooke. [*KBSS-InCLOSE I: Design and First Results from the Inner CGM of QSO Line of Sight Emitting Galaxies at z~2-3.*](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...41N/abstract) 2024, ApJ, 976, 41
 3. **E. H. Nunez**, E. N. Kirby, C. C. Steidel. [*Empirical Constraints on Core Collapse Supernovae Yields using Very Metal Poor Damped Lyman Alpha Absorbers*](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...64N/abstract). 2022, ApJ, 927, 64N.
 4. **E. H. Nunez**, M.S. Povich, B. A. Binder, L. K. Townsley, and P. S. Broos. [*Characterizing the X-ray Emission of Intermediate-Mass Pre-Main-Sequence Stars*](https://ui.adsabs.harvard.edu/abs/2021AJ....162..153N/abstract). 2021, AJ, 162, 153N.
 
 
-# Co-Author
-1. N. A. Korhonen Cuestas, A. L. Strom, T. B. Miller, C. C. Steidel, R. F. Trainor, G. C. Rudie, **E. H. Nunez**. Exploring the Relationship between Stellar Mass, Metallicity, and Star Formation Rate at z ∼ 2.3 in KBSS-MOSFIRE. 2025, ApJ, 984, 188K
-2. Z. Zhuang. [Metals in Star-Forming Galaxies with KCWI. I. Methodology and First Results on the Abundances of Iron, Magnesium, and Oxygen](https://ui.adsabs.harvard.edu/abs/2024arXiv240704782Z/abstract). Accepted in ApJ.
+## Co-Author
+1. N. A. Korhonen Cuestas, A. L. Strom, T. B. Miller, C. C. Steidel, R. F. Trainor, G. C. Rudie, **E. H. Nunez**. [*Exploring the Relationship between Stellar Mass, Metallicity, and Star Formation Rate at z ∼ 2.3 in KBSS-MOSFIRE.*](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..188K/abstract) 2025, ApJ, 984, 188K
+2. Baxter, Devontae C., Long, Arianna S., Manning, Sinclaire M., **Nuñez, Evan H.**, Randriamanakoto, Zara, Sims, Gianni. [*Black in galaxy astrophysics.*](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..767B/abstract) Nature Astronomy, Volume 9, p. 767-771.
+2. Z. Zhuang. [Metals in Star-Forming Galaxies with KCWI. I. Methodology and First Results on the Abundances of Iron, Magnesium, and Oxygen](https://ui.adsabs.harvard.edu/abs/2024arXiv240704782Z/abstract). 2024, ApJ, 972, 2.
 3. M. A. C. de los Reyes, E. N. Kirby, A. Ji, **E. H. Nunez**. [*Simultaneous Constraints on the Star Formation History and Nucleosynthesis of Sculptor dSph*](https://ui.adsabs.harvard.edu/abs/2022ApJ...925...66D/abstract). 2022, ApJ, 925, 66D.
 4. M. S. Povich, J. S. Maldonado, **E. H. Nunez**, and T. Robitaille. [*The Duration of Star Formation In Galactic Giant Molecular Clouds. I. The Great Nebula in Carina*.](https://ui.adsabs.harvard.edu/abs/2019ApJ...881...37P/abstract) 2019, ApJ, 881, 37. 
 5. Wang et al. (**E. H. Nunez** 25th author). [*Exploring Reionization-Era Quasars III: Discovery of 16 Quasars at 6.4 < z < 6.9 with DESI Legacy Imaging Surveys and UKIRT Hemisphere Survey and Quasar Luminosity Function at z ~ 6.7*.](https://ui.adsabs.harvard.edu/abs/2019ApJ...884...30W/abstract) 2019, ApJ, 884, 30.
